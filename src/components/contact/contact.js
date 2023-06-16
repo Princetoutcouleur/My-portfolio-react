@@ -12,8 +12,8 @@ const Contact = () => {
       <div className="container text-light pt-5">
         <div className="row">
           <h4 className="text-danger">Get in touch 😉</h4>
-          <h1>Contact me</h1>
-          <li className="text-success mb-2">
+          <h1 className='fw-bold'>Contact me</h1>
+          <li className="mb-3">
             I'm currently available for work.
           </li>
           <p>
