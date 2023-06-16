@@ -1,0 +1,22 @@
+.navigation{
+/* From https://css.glass */
+background: rgba(109, 108, 108, 0.31);
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(6.2px);
+-webkit-backdrop-filter: blur(6.2px);
+border: 1px solid rgba(109, 108, 108, 0.26);
+}
+.navigation .liens{
+    color: white;
+}
+.navigation .liens:hover{
+    color: white;
+}
+.navigation span{
+    color: white;
+}
+.profil{
+    width: 40px;
+    border-radius: 100%;
+    background-color: black;
+}
