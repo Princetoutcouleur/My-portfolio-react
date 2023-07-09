@@ -10,7 +10,7 @@ const header = () => {
         <div className="row">
           <div className="col-lg-6 col-md-6 col-sm-12  pt-5 left">
             <h4>Hi there, I'm Baba Thiam 👋</h4>
-            <h1 className="my-4">Web Developer</h1>
+            <h1 className="my-4">Front-end Web Developer</h1>
             <p className="mb-3">
               I help people and brands reach their goals by designing & building
               web site that solve real user needs

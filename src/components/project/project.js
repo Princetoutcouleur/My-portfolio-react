@@ -27,10 +27,10 @@ const project = () => {
                 <p class="text-title">Urban NFT Dashbord</p>
               </div>
               <div class="card-footer d-flex justify-content-end gap-3">
-                <a href="https://princetoutcouleur.github.io/404-NOT-FOUND/">
+                <a href="https://urban-nft-dashboard.vercel.app/">
                   <button class="btn btn-danger">Visit Site</button>
                 </a>
-                <a href="https://github.com/Princetoutcouleur/404-NOT-FOUND">
+                <a href="https://github.com/Princetoutcouleur/urban-nft-dashboard">
                   <button class="btn btn-secondary">Github</button>
                 </a>
               </div>
@@ -43,10 +43,10 @@ const project = () => {
                 <p class="text-title">Developer Portfolio</p>
               </div>
               <div class="card-footer d-flex justify-content-end gap-3">
-                <a href="https://princetoutcouleur.github.io/404-NOT-FOUND/">
+                <a href="https://princetoutcouleur.github.io/developer-portfolio/">
                   <button class="btn btn-danger">Visit Site</button>
                 </a>
-                <a href="https://github.com/Princetoutcouleur/404-NOT-FOUND">
+                <a href="https://github.com/Princetoutcouleur/developer-portfolio">
                   <button class="btn btn-secondary">Github</button>
                 </a>
               </div>
@@ -59,10 +59,10 @@ const project = () => {
                 <p class="text-title">The Princetoucouleur Business</p>
               </div>
               <div class="card-footer d-flex justify-content-end gap-3">
-                <a href="https://princetoutcouleur.github.io/404-NOT-FOUND/">
+                <a href="https://princetoutcouleur.github.io/the-princetoutcouleur-business/">
                   <button class="btn btn-danger">Visit Site</button>
                 </a>
-                <a href="https://github.com/Princetoutcouleur/404-NOT-FOUND">
+                <a href="https://github.com/Princetoutcouleur/the-princetoutcouleur-business">
                   <button class="btn btn-secondary">Github</button>
                 </a>
               </div>
@@ -77,10 +77,10 @@ const project = () => {
                 <p class="text-title">A Team Page</p>
               </div>
               <div class="card-footer d-flex justify-content-end gap-3">
-                <a href="https://princetoutcouleur.github.io/404-NOT-FOUND/">
+                <a href="https://princetoutcouleur.github.io/my-team-page/">
                   <button class="btn btn-danger">Visit Site</button>
                 </a>
-                <a href="https://github.com/Princetoutcouleur/404-NOT-FOUND">
+                <a href="https://github.com/Princetoutcouleur/my-team-page">
                   <button class="btn btn-secondary">Github</button>
                 </a>
               </div>
@@ -93,10 +93,10 @@ const project = () => {
                 <p class="text-title">Clone Wethenew</p>
               </div>
               <div class="card-footer d-flex justify-content-end gap-3">
-                <a href="https://princetoutcouleur.github.io/404-NOT-FOUND/">
+                <a href="https://princetoutcouleur.github.io/-Princetoutcouleur-princetoutcouleur-business-clone-wethenew/">
                   <button class="btn btn-danger">Visit Site</button>
                 </a>
-                <a href="https://github.com/Princetoutcouleur/404-NOT-FOUND">
+                <a href="https://github.com/Princetoutcouleur/-Princetoutcouleur-princetoutcouleur-business-clone-wethenew">
                   <button class="btn btn-secondary">Github</button>
                 </a>
               </div>
@@ -109,10 +109,10 @@ const project = () => {
                 <p class="text-title">Yelp Camp</p>
               </div>
               <div class="card-footer d-flex justify-content-end gap-3">
-                <a href="https://princetoutcouleur.github.io/404-NOT-FOUND/">
+                <a href="https://princetoutcouleur.github.io/Yelp-camp-starter/">
                   <button class="btn btn-danger">Visit Site</button>
                 </a>
-                <a href="https://github.com/Princetoutcouleur/404-NOT-FOUND">
+                <a href="https://github.com/Princetoutcouleur/Yelp-camp-starter">
                   <button class="btn btn-secondary">Github</button>
                 </a>
               </div>
