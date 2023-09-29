@@ -8,6 +8,17 @@ import { FaInstagram } from "react-icons/fa";
 
 
 const Contact = () => {
+  function handleWhatsAppClick() {
+    const defaultText = encodeURIComponent(
+      "Baba Thiam Frontent Web Developer"
+    );
+    const phoneNumber = "771010502";
+
+    window.open(
+      `https://wa.me/${phoneNumber}?text=${defaultText}`,
+      "_blank"
+    );
+  }
   return (
     <div id="contact" className="min-vh-100 pt-5">
       <div className="container text-light pt-5">
@@ -34,8 +45,10 @@ const Contact = () => {
               className="text-decoration-none linkedin"><FaLinkedin size={30} /></a>
               </li>
               <li className='whatsapp'>
-                <a href=""
-              className="text-decoration-none whatsapp"><BsWhatsapp size={30} /></a>
+              <a id="whatsApp" href="#" onClick={handleWhatsAppClick} className="text-decoration-none whatsapp">
+              <BsWhatsapp size={30} />
+  </a>
+ 
               </li>
               <li className='instagram'>
                 <a href="https://www.instagram.com/the_princetoutcouleur/"
