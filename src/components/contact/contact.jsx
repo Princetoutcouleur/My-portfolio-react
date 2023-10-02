@@ -10,7 +10,7 @@ import { FaInstagram } from "react-icons/fa";
 const Contact = () => {
   function handleWhatsAppClick() {
     const defaultText = encodeURIComponent(
-      "Baba Thiam Frontent Web Developer"
+      "Salut Baba Thiam."
     );
     const phoneNumber = "771010502";
 
