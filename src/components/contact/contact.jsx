@@ -27,7 +27,7 @@ const Contact = () => {
           <p>Feel free to contact me. I'm waiting for your message.</p>
 
           <div>
-            <ul className="list-unstyled d-flex gap-5 justify-content-center mt-5">
+            <ul className="list-unstyled d-flex gap-4 justify-content-center mt-5">
               <li className="email">
                 <a
                   href="mailto:babathia0000@gmail.com"
