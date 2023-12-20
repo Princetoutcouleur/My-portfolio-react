@@ -15,6 +15,9 @@ border: 1px solid rgba(109, 108, 108, 0.26);
 .navigation span{
     color: white;
 }
+.bars{
+    background-color: white;
+}
 .profil{
     width: 40px;
     border-radius: 100%;

@@ -4,7 +4,7 @@ import image from '../../assets/imgs/baba.png'
 
 const about = () => {
   return (
-    <div id="about" className="bg-dark min-vh-100 text-light pt-5">
+    <div id="about" className="bg-dark min-vh-100 text-light py-5">
       <div className="container pt-5">
         <div className="row">
           <div className="col-lg-6 col-md-6 col-sm-12 pt-5">

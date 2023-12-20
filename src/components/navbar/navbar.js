@@ -22,6 +22,9 @@ function NavBar() {
             <Nav.Link href="#about" className="fw-bold liens">
               About me
             </Nav.Link>
+            <Nav.Link href="#experience" className="fw-bold liens">
+              Experience
+            </Nav.Link>
             <Nav.Link href="#tools" className="fw-bold liens">
               Tools
             </Nav.Link>
